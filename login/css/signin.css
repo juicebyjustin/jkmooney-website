@@ -1,0 +1,28 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: url(../img/mtbatur.jpg) no-repeat center center fixed;
+  background-size: cover;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  margin: auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  font-size: 16px;
+}
